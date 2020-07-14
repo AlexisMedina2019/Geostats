@@ -1,0 +1,635 @@
+﻿ID,Area,Clase,zone,sector
+1,101142.52,Macroalgae,BR,C
+2,396.37,Coral structure,BR,C
+3,382.36,stump and boulders,BR,C
+4,10.87,stump and boulders,BR,C
+5,43.39,Seagrass communities,BR,C
+6,464.37,Sediments,BR,C
+7,66.72,Sediments,BR,C
+8,304.24,Sediments,BR,C
+9,752.6,Sediments,BR,C
+10,656.53,Sediments,BR,C
+11,444.84,Sediments,BR,C
+12,512.41,Sediments,BR,C
+13,7.96,Coral structure,BR,C
+14,256.2,Coral structure,BR,C
+15,0.97,stump and boulders,BR,C
+16,768.61,stump and boulders,BR,C
+17,88.25,stump and boulders,BR,C
+18,568.34,stump and boulders,BR,C
+19,77.02,stump and boulders,BR,C
+20,102.9,stump and boulders,BR,C
+21,11.84,stump and boulders,BR,C
+22,0.33,stump and boulders,BR,C
+23,293.37,stump and boulders,BR,C
+24,32.03,Coral structure,BR,C
+25,8,Coral structure,BR,C
+26,17.26,Coral structure,BR,C
+27,48.04,Coral structure,BR,C
+28,16.01,Coral structure,BR,C
+29,140.38,NoData,BR,C
+30,2829.39,Sediments,BR,N
+31,120518.52,Macroalgae,BR,N
+32,419.2,stump and boulders,BR,N
+33,1326.98,Seagrass communities,BR,N
+34,391.69,Sediments,BR,N
+35,480.38,Sediments,BR,N
+36,1200.96,Sediments,BR,N
+37,786.11,Sediments,BR,N
+38,2588.26,Sediments,BR,N
+39,271.93,Sediments,BR,N
+40,304.24,Sediments,BR,N
+41,832.67,Sediments,BR,N
+42,256.2,Sediments,BR,N
+43,256.2,Sediments,BR,N
+44,352.28,Sediments,BR,N
+45,256.21,Sediments,BR,N
+46,1136.91,Sediments,BR,N
+47,512.41,Sediments,BR,N
+48,512.41,Sediments,BR,N
+49,784.63,Macroalgae,BR,N
+50,188.19,Macroalgae,BR,N
+51,248.56,Coral structure,BR,N
+52,80.06,Coral structure,BR,N
+53,0.46,stump and boulders,BR,N
+54,34.8,stump and boulders,BR,N
+55,40.99,stump and boulders,BR,N
+56,63.94,stump and boulders,BR,N
+57,69.3,stump and boulders,BR,N
+58,0.18,stump and boulders,BR,N
+59,100.47,stump and boulders,BR,N
+60,4275.42,stump and boulders,BR,N
+61,96.08,stump and boulders,BR,N
+62,832.71,stump and boulders,BR,N
+63,1985.59,stump and boulders,BR,N
+64,29.72,Coral structure,BR,N
+65,15.92,Coral structure,BR,N
+66,96.26,NoData,BR,N
+67,394.37,Sediments,BR,S
+68,105.4,Sediments,BR,S
+69,218.78,Sediments,BR,S
+70,99468.3,Macroalgae,BR,S
+71,54.88,Coral structure,BR,S
+72,427.41,stump and boulders,BR,S
+73,723.53,Seagrass communities,BR,S
+74,55.6,Seagrass and macroalgae,BR,S
+75,3.1,Seagrass and macroalgae,BR,S
+76,75.69,Seagrass and macroalgae,BR,S
+77,363.92,Seagrass and macroalgae,BR,S
+78,428.82,Sediments,BR,S
+79,672.54,Sediments,BR,S
+80,135.47,Coral structure,BR,S
+81,138.9,Coral structure,BR,S
+82,5.43,Coral structure,BR,S
+83,18.55,Coral structure,BR,S
+84,25.72,Coral structure,BR,S
+85,173.85,Coral structure,BR,S
+86,50.84,Coral structure,BR,S
+87,60.08,stump and boulders,BR,S
+88,4.19,stump and boulders,BR,S
+89,49.52,stump and boulders,BR,S
+90,96.08,stump and boulders,BR,S
+91,266.74,stump and boulders,BR,S
+92,32.98,stump and boulders,BR,S
+93,125.62,stump and boulders,BR,S
+94,19.72,Coral structure,BR,S
+95,24.68,Coral structure,BR,S
+96,24.3,Coral structure,BR,S
+97,21.52,Coral structure,BR,S
+98,38.45,NoData,BR,S
+99,49470.04,Macroalgae,RF,C
+100,69.76,stump and boulders,RF,C
+101,19.99,stump and boulders,RF,C
+102,72.09,stump and boulders,RF,C
+103,58.19,stump and boulders,RF,C
+104,934.03,stump and boulders,RF,C
+105,96.08,stump and boulders,RF,C
+106,150.17,stump and boulders,RF,C
+107,128.1,stump and boulders,RF,C
+108,49062.37,stump and boulders,RF,C
+109,80.06,stump and boulders,RF,C
+110,112.09,stump and boulders,RF,C
+111,109.02,stump and boulders,RF,C
+112,90.16,stump and boulders,RF,C
+113,299.73,stump and boulders,RF,C
+114,11.26,stump and boulders,RF,C
+115,116.32,stump and boulders,RF,C
+116,11391.04,stump and boulders,RF,C
+117,368.29,Macroalgae,RF,C
+118,1136.91,Macroalgae,RF,C
+119,320.26,Macroalgae,RF,C
+120,1617.29,Macroalgae,RF,C
+121,1125.38,Macroalgae,RF,C
+122,185.85,Macroalgae,RF,C
+123,64.05,Coral structure,RF,C
+124,64.05,Coral structure,RF,C
+125,256.21,Coral structure,RF,C
+126,64.05,Coral structure,RF,C
+127,112.09,Coral structure,RF,C
+128,90.77,Coral structure,RF,C
+129,128.1,Coral structure,RF,C
+130,224.18,stump and boulders,RF,C
+131,64.05,stump and boulders,RF,C
+132,108.22,stump and boulders,RF,C
+133,1067.64,stump and boulders,RF,C
+134,3.64,stump and boulders,RF,C
+135,144.12,stump and boulders,RF,C
+136,128.1,stump and boulders,RF,C
+137,64.05,stump and boulders,RF,C
+138,203.13,stump and boulders,RF,C
+139,272.22,stump and boulders,RF,C
+140,304.24,stump and boulders,RF,C
+141,207.79,stump and boulders,RF,C
+142,80.06,stump and boulders,RF,C
+143,86,stump and boulders,RF,C
+144,50.24,stump and boulders,RF,C
+145,96.08,stump and boulders,RF,C
+146,144.12,stump and boulders,RF,C
+147,160.13,stump and boulders,RF,C
+148,31.25,Coral structure,RF,C
+149,48.04,Coral structure,RF,C
+150,32.03,Coral structure,RF,C
+151,32.03,Coral structure,RF,C
+152,21.42,Coral structure,RF,C
+153,32.03,Coral structure,RF,C
+154,13.1,Coral structure,RF,C
+155,32.03,Coral structure,RF,C
+156,32.03,Coral structure,RF,C
+157,32.03,Coral structure,RF,C
+158,32.03,Coral structure,RF,C
+159,32.03,Coral structure,RF,C
+160,16.01,Coral structure,RF,C
+161,1760.54,NoData,RF,C
+162,336.27,Macroalgae,RF,N
+163,288.23,Macroalgae,RF,N
+164,416.33,Macroalgae,RF,N
+165,46067.41,Macroalgae,RF,N
+166,64.05,Coral structure,RF,N
+167,85.24,Coral structure,RF,N
+168,92.71,Coral structure,RF,N
+169,348.4,stump and boulders,RF,N
+170,452,stump and boulders,RF,N
+171,151.49,stump and boulders,RF,N
+172,262.86,stump and boulders,RF,N
+173,64.05,stump and boulders,RF,N
+174,256.26,stump and boulders,RF,N
+175,130.94,stump and boulders,RF,N
+176,95.47,stump and boulders,RF,N
+177,361.65,stump and boulders,RF,N
+178,158.18,stump and boulders,RF,N
+179,111.78,stump and boulders,RF,N
+180,73889.88,stump and boulders,RF,N
+181,53.4,stump and boulders,RF,N
+182,43.22,stump and boulders,RF,N
+183,388.42,stump and boulders,RF,N
+184,4251.29,stump and boulders,RF,N
+185,16.01,Coral structure,RF,N
+186,239.84,Macroalgae,RF,N
+187,400.32,Macroalgae,RF,N
+188,1168.94,Macroalgae,RF,N
+189,496.4,Macroalgae,RF,N
+190,640.51,Macroalgae,RF,N
+191,432.35,Macroalgae,RF,N
+192,480.38,Macroalgae,RF,N
+193,2770.21,Macroalgae,RF,N
+194,1313.05,Macroalgae,RF,N
+195,336.27,Macroalgae,RF,N
+196,304.24,Macroalgae,RF,N
+197,352.28,Macroalgae,RF,N
+198,384.31,Macroalgae,RF,N
+199,480.39,Macroalgae,RF,N
+200,64.05,Coral structure,RF,N
+201,47.66,Coral structure,RF,N
+202,400.32,Coral structure,RF,N
+203,80.06,Coral structure,RF,N
+204,368.29,Coral structure,RF,N
+205,192.15,Coral structure,RF,N
+206,64.05,Coral structure,RF,N
+207,80.06,Coral structure,RF,N
+208,96.08,Coral structure,RF,N
+209,96.08,Coral structure,RF,N
+210,64.05,Coral structure,RF,N
+211,96.08,Coral structure,RF,N
+212,64.05,Coral structure,RF,N
+213,64.05,Coral structure,RF,N
+214,96.08,Coral structure,RF,N
+215,112.09,Coral structure,RF,N
+216,208.17,Coral structure,RF,N
+217,64.05,Coral structure,RF,N
+218,64.05,Coral structure,RF,N
+219,240.19,Coral structure,RF,N
+220,160.13,Coral structure,RF,N
+221,336.27,Coral structure,RF,N
+222,64.05,Coral structure,RF,N
+223,80.06,Coral structure,RF,N
+224,37.6,stump and boulders,RF,N
+225,64.05,stump and boulders,RF,N
+226,183.79,stump and boulders,RF,N
+227,112.09,stump and boulders,RF,N
+228,477.46,stump and boulders,RF,N
+229,0.13,stump and boulders,RF,N
+230,208.17,stump and boulders,RF,N
+231,144.12,stump and boulders,RF,N
+232,64.05,stump and boulders,RF,N
+233,293.19,stump and boulders,RF,N
+234,120.82,stump and boulders,RF,N
+235,115.46,stump and boulders,RF,N
+236,64.05,stump and boulders,RF,N
+237,4831.21,stump and boulders,RF,N
+238,184.81,stump and boulders,RF,N
+239,32.03,Coral structure,RF,N
+240,48.04,Coral structure,RF,N
+241,32.03,Coral structure,RF,N
+242,16.01,Coral structure,RF,N
+243,32.03,Coral structure,RF,N
+244,32.03,Coral structure,RF,N
+245,32.03,Coral structure,RF,N
+246,32.03,Coral structure,RF,N
+247,16.01,Coral structure,RF,N
+248,14.08,Coral structure,RF,N
+249,32.03,Coral structure,RF,N
+250,32.03,Coral structure,RF,N
+251,32.03,Coral structure,RF,N
+252,32.03,Coral structure,RF,N
+253,112.09,Coral structure,RF,N
+254,32.03,Coral structure,RF,N
+255,112.09,Coral structure,RF,N
+256,32.03,Coral structure,RF,N
+257,32.03,Coral structure,RF,N
+258,16.01,Coral structure,RF,N
+259,16.01,Coral structure,RF,N
+260,16.01,Coral structure,RF,N
+261,16.01,Coral structure,RF,N
+262,32.03,Coral structure,RF,N
+263,32.03,Coral structure,RF,N
+264,32.03,Coral structure,RF,N
+265,32.03,Coral structure,RF,N
+266,16.01,Coral structure,RF,N
+267,16.01,Coral structure,RF,N
+268,48.04,Coral structure,RF,N
+269,32.03,Coral structure,RF,N
+270,48.04,Coral structure,RF,N
+271,32.03,Coral structure,RF,N
+272,32.03,Coral structure,RF,N
+273,32.03,Coral structure,RF,N
+274,32.03,Coral structure,RF,N
+275,32.03,Coral structure,RF,N
+276,96.08,Coral structure,RF,N
+277,32.03,Coral structure,RF,N
+278,32.03,Coral structure,RF,N
+279,32.03,Coral structure,RF,N
+280,31.48,Coral structure,RF,N
+281,32.03,Coral structure,RF,N
+282,16.01,Coral structure,RF,N
+283,32.03,Coral structure,RF,N
+284,31.95,Coral structure,RF,N
+285,3282.19,NoData,RF,N
+286,36522.49,Macroalgae,RF,S
+287,128.1,stump and boulders,RF,S
+288,128.1,stump and boulders,RF,S
+289,124.81,stump and boulders,RF,S
+290,62873.72,stump and boulders,RF,S
+291,416.33,Macroalgae,RF,S
+292,102.96,Coral structure,RF,S
+293,96.08,Coral structure,RF,S
+294,80.74,Coral structure,RF,S
+295,82.95,Coral structure,RF,S
+296,893.71,Coral structure,RF,S
+297,162.37,Coral structure,RF,S
+298,27.14,Coral structure,RF,S
+299,138.42,stump and boulders,RF,S
+300,55.62,stump and boulders,RF,S
+301,369.07,stump and boulders,RF,S
+302,18.3,stump and boulders,RF,S
+303,144.12,stump and boulders,RF,S
+304,86.32,stump and boulders,RF,S
+305,672.54,stump and boulders,RF,S
+306,192.15,stump and boulders,RF,S
+307,319.62,stump and boulders,RF,S
+308,297.46,stump and boulders,RF,S
+309,0.44,Coral structure,RF,S
+310,3.53,Coral structure,RF,S
+311,0.06,Coral structure,RF,S
+312,16.01,Coral structure,RF,S
+313,63.09,NoData,RF,S
+356,325.97,Sediments,DT,N
+357,608.49,Sediments,DT,N
+358,720.58,Sediments,DT,N
+359,255.02,Sediments,DT,N
+360,1873.5,Sediments,DT,N
+361,16845.46,Sediments,DT,N
+362,2359.64,Sediments,DT,N
+363,304.24,Sediments,DT,N
+364,36035.79,Sediments,DT,N
+365,704.56,Macroalgae,DT,N
+366,1537.23,Macroalgae,DT,N
+367,416.33,Macroalgae,DT,N
+368,816.65,Macroalgae,DT,N
+369,304.24,Macroalgae,DT,N
+370,255.25,Macroalgae,DT,N
+371,288.23,Macroalgae,DT,N
+372,1512.97,Macroalgae,DT,N
+373,1777.42,Macroalgae,DT,N
+374,272.22,Macroalgae,DT,N
+375,624.5,Macroalgae,DT,N
+376,752.6,Macroalgae,DT,N
+377,2029.65,Macroalgae,DT,N
+378,6569.55,Macroalgae,DT,N
+379,784.63,Macroalgae,DT,N
+380,18610.32,Macroalgae,DT,N
+381,864.69,Coral structure,DT,N
+382,352.28,Coral structure,DT,N
+383,1547.77,Coral structure,DT,N
+384,656.52,Coral structure,DT,N
+385,3298.64,Coral structure,DT,N
+386,96.08,Coral structure,DT,N
+387,3971.18,Coral structure,DT,N
+388,64.05,Coral structure,DT,N
+389,6112.1,Coral structure,DT,N
+390,416.33,Coral structure,DT,N
+391,1040.83,Coral structure,DT,N
+392,128.1,Coral structure,DT,N
+393,2225.78,Coral structure,DT,N
+394,512.41,Coral structure,DT,N
+395,1008.81,Coral structure,DT,N
+396,304.24,Coral structure,DT,N
+397,3586.86,Coral structure,DT,N
+398,1216.98,Coral structure,DT,N
+399,625.74,Coral structure,DT,N
+400,16782.98,Coral structure,DT,N
+401,1338.43,stump and boulders,DT,N
+402,144.12,stump and boulders,DT,N
+403,29.84,stump and boulders,DT,N
+404,64.05,stump and boulders,DT,N
+405,80.06,stump and boulders,DT,N
+406,544.44,stump and boulders,DT,N
+407,64.05,stump and boulders,DT,N
+408,101.92,stump and boulders,DT,N
+409,112.09,stump and boulders,DT,N
+410,112.09,stump and boulders,DT,N
+411,576.46,stump and boulders,DT,N
+412,96.08,stump and boulders,DT,N
+413,368.3,stump and boulders,DT,N
+414,352.28,stump and boulders,DT,N
+415,224.18,stump and boulders,DT,N
+416,128.1,stump and boulders,DT,N
+417,144.12,stump and boulders,DT,N
+418,96.08,stump and boulders,DT,N
+419,128.1,stump and boulders,DT,N
+420,192.15,stump and boulders,DT,N
+421,10699.05,stump and boulders,DT,N
+422,123.3,stump and boulders,DT,N
+423,2983.51,stump and boulders,DT,N
+424,10.09,stump and boulders,DT,N
+425,61.97,stump and boulders,DT,N
+426,628.41,stump and boulders,DT,N
+427,138.22,stump and boulders,DT,N
+428,39.85,stump and boulders,DT,N
+429,144.11,stump and boulders,DT,N
+430,222.45,stump and boulders,DT,N
+431,128.1,stump and boulders,DT,N
+432,189.11,stump and boulders,DT,N
+433,96.08,stump and boulders,DT,N
+434,848.68,stump and boulders,DT,N
+435,63.02,stump and boulders,DT,N
+436,371.83,stump and boulders,DT,N
+437,1742.58,stump and boulders,DT,N
+438,192.15,Coral structure,DT,N
+439,32.03,Coral structure,DT,N
+440,16.01,Coral structure,DT,N
+441,32.03,Coral structure,DT,N
+442,28.77,Coral structure,DT,N
+443,1108.86,Seagrass communities,DT,N
+444,2836.44,Seagrass communities,DT,N
+445,83.07,Sediments,DT,N
+446,544.43,Sediments,DT,N
+447,273.04,Sediments,DT,N
+448,1148.98,Sediments,DT,N
+449,704.56,Sediments,DT,N
+450,416.33,Sediments,DT,N
+451,400.32,Sediments,DT,N
+452,528.42,Sediments,DT,N
+453,2266.18,Sediments,DT,N
+454,400.32,Sediments,DT,N
+455,864.69,Sediments,DT,N
+456,10.09,Macroalgae,DT,N
+457,160.51,Macroalgae,DT,N
+458,405.67,Macroalgae,DT,N
+459,608.49,Macroalgae,DT,N
+460,656.53,Macroalgae,DT,N
+461,1327.98,Macroalgae,DT,N
+462,304.24,Macroalgae,DT,N
+463,1168.94,Macroalgae,DT,N
+464,1286.36,Macroalgae,DT,N
+465,848.68,Macroalgae,DT,N
+466,944.76,Macroalgae,DT,N
+467,400.32,Macroalgae,DT,N
+468,3282.62,Macroalgae,DT,N
+469,384.31,Macroalgae,DT,N
+470,1136.91,Macroalgae,DT,N
+471,768.62,Macroalgae,DT,N
+472,416.33,Macroalgae,DT,N
+473,304.24,Macroalgae,DT,N
+474,784.63,Macroalgae,DT,N
+475,6118.76,Macroalgae,DT,N
+476,2161.73,Macroalgae,DT,N
+477,989.77,Coral structure,DT,N
+478,3014.41,Coral structure,DT,N
+479,127.2,Coral structure,DT,N
+480,768.62,Coral structure,DT,N
+481,8.94,Coral structure,DT,N
+482,96.08,Coral structure,DT,N
+483,256.2,Coral structure,DT,N
+484,288.23,Coral structure,DT,N
+485,2401.92,Coral structure,DT,N
+486,64.05,Coral structure,DT,N
+487,496.4,Coral structure,DT,N
+488,112.09,Coral structure,DT,N
+489,560.45,Coral structure,DT,N
+490,959.76,Coral structure,DT,N
+491,1265.01,Coral structure,DT,N
+492,128.1,Coral structure,DT,N
+493,560.45,Coral structure,DT,N
+494,96.08,Coral structure,DT,N
+495,144.12,Coral structure,DT,N
+496,80.06,Coral structure,DT,N
+497,101.47,Coral structure,DT,N
+498,336.27,Coral structure,DT,N
+499,7397.92,Coral structure,DT,N
+500,128.1,Coral structure,DT,N
+501,365.2,Coral structure,DT,N
+502,272.22,Coral structure,DT,N
+503,144.12,Coral structure,DT,N
+504,272.22,Coral structure,DT,N
+505,544.44,Coral structure,DT,N
+506,64.05,Coral structure,DT,N
+507,3827.06,Coral structure,DT,N
+508,192.15,Coral structure,DT,N
+509,6.76,Coral structure,DT,N
+510,352.28,Coral structure,DT,N
+511,272.22,Coral structure,DT,N
+512,96.08,Coral structure,DT,N
+513,64.05,Coral structure,DT,N
+514,207.25,Coral structure,DT,N
+515,288.23,Coral structure,DT,N
+516,192.15,Coral structure,DT,N
+517,864.69,Coral structure,DT,N
+518,496.4,Coral structure,DT,N
+519,1088.87,Coral structure,DT,N
+520,368.29,Coral structure,DT,N
+521,160.13,Coral structure,DT,N
+522,1489.19,Coral structure,DT,N
+523,1345.08,Coral structure,DT,N
+524,272.22,Coral structure,DT,N
+525,512.41,Coral structure,DT,N
+526,784.63,Coral structure,DT,N
+527,400.32,Coral structure,DT,N
+528,112.09,Coral structure,DT,N
+529,64.05,Coral structure,DT,N
+530,147.32,Coral structure,DT,N
+531,528.42,Coral structure,DT,N
+532,100.98,Coral structure,DT,N
+533,1473.18,Coral structure,DT,N
+534,1040.83,Coral structure,DT,N
+535,560.45,Coral structure,DT,N
+536,80.06,Coral structure,DT,N
+537,112.09,Coral structure,DT,N
+538,192.16,Coral structure,DT,N
+539,304.24,stump and boulders,DT,N
+540,128.1,stump and boulders,DT,N
+541,58.63,stump and boulders,DT,N
+542,960.77,stump and boulders,DT,N
+543,128.1,stump and boulders,DT,N
+544,288.23,stump and boulders,DT,N
+545,96.08,stump and boulders,DT,N
+546,208.17,stump and boulders,DT,N
+547,128.1,stump and boulders,DT,N
+548,768.61,stump and boulders,DT,N
+549,176.14,stump and boulders,DT,N
+550,1745.39,stump and boulders,DT,N
+551,64.05,stump and boulders,DT,N
+552,912.73,stump and boulders,DT,N
+553,144.12,stump and boulders,DT,N
+554,848.68,stump and boulders,DT,N
+555,608.49,stump and boulders,DT,N
+556,576.46,stump and boulders,DT,N
+557,256.2,stump and boulders,DT,N
+558,784.63,stump and boulders,DT,N
+559,1409.13,stump and boulders,DT,N
+560,64.05,stump and boulders,DT,N
+561,80.06,stump and boulders,DT,N
+562,160.13,stump and boulders,DT,N
+563,224.18,stump and boulders,DT,N
+564,192.15,stump and boulders,DT,N
+565,3057.86,stump and boulders,DT,N
+566,64.05,stump and boulders,DT,N
+567,64.05,stump and boulders,DT,N
+568,80.06,stump and boulders,DT,N
+569,80.06,stump and boulders,DT,N
+570,272.22,stump and boulders,DT,N
+571,96.08,stump and boulders,DT,N
+572,64.05,stump and boulders,DT,N
+573,368.29,stump and boulders,DT,N
+574,288.23,stump and boulders,DT,N
+575,64.05,stump and boulders,DT,N
+576,528.42,stump and boulders,DT,N
+577,416.33,stump and boulders,DT,N
+578,192.15,stump and boulders,DT,N
+579,160.13,stump and boulders,DT,N
+580,64.05,stump and boulders,DT,N
+581,688.55,stump and boulders,DT,N
+582,112.09,stump and boulders,DT,N
+583,576.46,stump and boulders,DT,N
+584,224.18,stump and boulders,DT,N
+585,304.24,stump and boulders,DT,N
+586,384.31,stump and boulders,DT,N
+587,400.32,stump and boulders,DT,N
+588,416.33,stump and boulders,DT,N
+589,368.29,stump and boulders,DT,N
+590,112.09,stump and boulders,DT,N
+591,256.21,stump and boulders,DT,N
+592,240.19,stump and boulders,DT,N
+593,64.05,stump and boulders,DT,N
+594,144.12,stump and boulders,DT,N
+595,64.05,stump and boulders,DT,N
+596,128.1,stump and boulders,DT,N
+597,128.1,stump and boulders,DT,N
+598,528.42,stump and boulders,DT,N
+599,148.92,stump and boulders,DT,N
+600,816.65,stump and boulders,DT,N
+601,45.01,stump and boulders,DT,N
+602,80.06,stump and boulders,DT,N
+603,41.56,stump and boulders,DT,N
+604,112.09,stump and boulders,DT,N
+605,1985.59,stump and boulders,DT,N
+606,704.56,stump and boulders,DT,N
+607,192.15,stump and boulders,DT,N
+608,96.08,stump and boulders,DT,N
+609,192.15,Coral structure,DT,N
+610,32.03,Coral structure,DT,N
+611,240.19,Coral structure,DT,N
+612,48.04,Coral structure,DT,N
+613,32.03,Coral structure,DT,N
+614,32.03,Coral structure,DT,N
+615,32.03,Coral structure,DT,N
+616,48.04,Coral structure,DT,N
+617,32.03,Coral structure,DT,N
+618,32.03,Coral structure,DT,N
+619,32.03,Coral structure,DT,N
+620,32.03,Coral structure,DT,N
+621,48.04,Coral structure,DT,N
+622,32.03,Coral structure,DT,N
+623,48.04,Coral structure,DT,N
+624,48.04,Coral structure,DT,N
+625,48.04,Coral structure,DT,N
+626,32.03,Coral structure,DT,N
+627,48.04,Coral structure,DT,N
+628,48.04,Coral structure,DT,N
+629,4380.49,Sediments,CG,N
+630,8404.11,Macroalgae,CG,N
+631,464.37,Macroalgae,CG,N
+632,160.05,Macroalgae,CG,N
+633,896.72,Macroalgae,CG,N
+634,832.67,Macroalgae,CG,N
+635,265.66,Macroalgae,CG,N
+636,2619.67,Macroalgae,CG,N
+637,680.4,Macroalgae,CG,N
+638,49.72,Macroalgae,CG,N
+639,704.93,Macroalgae,CG,N
+640,23348.62,Octocorals,CG,N
+641,480.44,Octocorals y Corals,CG,N
+642,447.33,Octocorals y Corals,CG,N
+643,79.25,Octocorals y Corals,CG,N
+644,16.01,Coral structure,CG,N
+645,96.08,NoData,CG,N
+646,489.02,Macroalgae,CG,C
+647,1260.75,Macroalgae,CG,C
+648,5908.47,Macroalgae,CG,C
+649,61.9,Octocorals,CG,C
+650,5887.36,Octocorals,CG,C
+651,2302.2,Octocorals,CG,C
+652,6392.88,Octocorals,CG,C
+653,77.01,Octocorals y Corals,CG,C
+654,607.92,Octocorals y Corals,CG,C
+655,203.62,Octocorals y Corals,CG,C
+656,4.74,Sediments,CG,S
+657,64.86,Sediments,CG,S
+658,320.26,Macroalgae,CG,S
+659,336.27,Macroalgae,CG,S
+660,432.35,Macroalgae,CG,S
+661,1889.51,Macroalgae,CG,S
+662,2563.8,Macroalgae,CG,S
+663,368.3,Macroalgae,CG,S
+664,176.44,Macroalgae,CG,S
+665,1585.27,Macroalgae,CG,S
+666,81046.29,Macroalgae,CG,S
+667,64.05,stump and boulders,CG,S
+668,185.27,stump and boulders,CG,S
+669,347.48,stump and boulders,CG,S
+670,560.45,Octocorals,CG,S
+671,592.47,Octocorals,CG,S
+672,928.74,Octocorals,CG,S
+673,368.29,Octocorals,CG,S
+674,416.33,Octocorals,CG,S
+675,133271.29,Octocorals,CG,S
+676,455.5,Octocorals y Corals,CG,S
